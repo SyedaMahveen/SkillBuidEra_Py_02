@@ -53,7 +53,7 @@ This project demonstrates practical use of file handling, CSV data storage, user
 4. Navigate to the project folder.
 5. Run:
 
-python expense_tracker.py
+python expensetracker.py
 
 6. Use the menu options to add expenses, view records, and generate reports.
 
