@@ -100,3 +100,6 @@ Through this project, I learned:
 
 Expense tracking is essential for personal finance management. This application helps users monitor spending habits, analyze expenses, and make informed financial decisions.
 
+## output:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d67904cb-8202-4c6a-91f3-86259dd54a2f" />
