@@ -45,20 +45,6 @@ This project demonstrates practical use of file handling, CSV data storage, user
 
 
 
-## How to Run the Project
-
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open Terminal or Command Prompt.
-4. Navigate to the project folder.
-5. Run:
-
-python expensetracker.py
-
-6. Use the menu options to add expenses, view records, and generate reports.
-
-
-
 ## Sample Output
 
 ===== EXPENSE TRACKER =====
